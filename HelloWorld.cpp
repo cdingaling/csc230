@@ -1,7 +1,9 @@
+#include <iostream>
+
 using namespace std;
 
-public int main()
+int main()
 {
 	//this is a comment
 	cout << "Hello Github!" << endl;
-}
+};
